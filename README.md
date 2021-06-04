@@ -27,3 +27,7 @@ for x in range(img.size[0]):
             (x**2-y**2) % 255,
         )
 ```
+
+## Result
+
+![result image](./image.png)
